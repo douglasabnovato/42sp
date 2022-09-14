@@ -1,4 +1,10 @@
-### 42 São Paulo 
+<h4 align="center"> 
+	🚧 42 São Paulo 🚀
+</h4>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1 do projeto" title="#42sp" src="./.github/tela-1.jpg" height="400px">
+</p> 
 
 Projeto com as tarefas desenvolvidas no bootcamp da escola 42sp realizado no modelo remoto.
 Um esquenta do dia 24 de janeiro até 30 de janeiro. E o 42basecamp de 31 de janeiro até 19 de fevereiro.
@@ -31,4 +37,6 @@ Um esquenta do dia 24 de janeiro até 30 de janeiro. E o 42basecamp de 31 de jan
 - Norminette avalia padrões de código: espaço, tab, forma de return entre outros.
 - Molinette testa os códigos conforme retornos esperados e formas de inputs.
 
-- @douglasabnovato
+Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
+ 
+Fonte do projeto na [42sp](https://www.42sp.org.br/).
